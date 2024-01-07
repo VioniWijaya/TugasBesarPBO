@@ -1,0 +1,3 @@
+interface Sell {
+    String getDescription();
+}
